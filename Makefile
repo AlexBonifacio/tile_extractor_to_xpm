@@ -1,6 +1,6 @@
 NAME = extractor
 
-SRC = extractor.c
+SRC = src/extractor.c
 
 OBJ = $(SRC:.c=.o)
 
